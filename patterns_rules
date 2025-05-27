@@ -1,0 +1,5 @@
+RULES--> 
+1.For the outer loop, count the no. of lines(rows)
+2.For the inner loop , focus on the columns and connect them somehow with rows
+3.print the "*" inside the inner for loop.
+4. observe symmertry[this rule is optional]

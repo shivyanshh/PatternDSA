@@ -17,7 +17,7 @@ public class twentytwo {
                 // from right = n-1-j 
                 //so take the minimum of all distances and subtract it from max value(4)
 
-                int min = Math.min(Math.min(i, j), Math.min(n - 1 - i, n - 1 - j));
+                int min = Math.min(Math.min(i, j), Math.min(n-1-i,n-1-j));
                 System.out.print((4-min)+" ");
             }
             //move to the next line after each row
